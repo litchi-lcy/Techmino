@@ -15,7 +15,7 @@ return {
             T<=90 and 4 or
             T<=126 and 3 or
             T<=162 and 2 or
-            T<=260 and 1 or
+            T<=300 and 1 or
             0
     end,
 }
